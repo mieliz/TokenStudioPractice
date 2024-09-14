@@ -1,9 +1,28 @@
 {
   "global": {},
+  "Tokens/Mode 1": {
+    "Brand": {
+      "value": "#c146fb",
+      "type": "color"
+    },
+    "Header": {
+      "value": "#302c32",
+      "type": "color"
+    },
+    "Subheader": {
+      "value": "#504a53",
+      "type": "color"
+    },
+    "Paragraph": {
+      "value": "#868188",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Tokens/Mode 1"
     ]
   }
 }
